@@ -12,25 +12,25 @@
 >***Vein Miller***
 
 ## ​💻​💾​👓​👔​ Languages and Technologies:<br/>
-HTML5<br/>
-PUG<br/>
-JADE<br/>
-CSS<br/>
-SCSS<br/>
-LESS<br/>
-JavaScript<br/>
-ES6<br/>
-TypeScript<br/>
-ReactJS<br/>
-Redux<br/>
-AJAX<br/>
-GIT<br/>
-REST<br/>
-SPA<br/>
-Bootstrap<br/>
-WebPack<br/>
-GULP<br/>
-SDLC<br/>
-SCRUM<br/>
-KANBAN<br/>
-MaterialUI<br/>
+* HTML5<br/>
+* PUG<br/>
+* JADE<br/>
+* CSS<br/>
+* SCSS<br/>
+* LESS<br/>
+* JavaScript<br/>
+* ES6<br/>
+* TypeScript<br/>
+* ReactJS<br/>
+* Redux<br/>
+* AJAX<br/>
+* GIT<br/>
+* REST<br/>
+* SPA<br/>
+* Bootstrap<br/>
+* WebPack<br/>
+* GULP<br/>
+* SDLC<br/>
+* SCRUM<br/>
+* KANBAN<br/>
+* MaterialUI<br/>
