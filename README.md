@@ -5,7 +5,7 @@
 ### 💬 Check my LinkedIn: [Sviatoslav Tymonko](https://www.linkedin.com/in/sviatoslav-tymonko-965419222/)<br/>
 ### 💬 Check my DOU: [Sviatoslav Tymonko](https://dou.ua/users/sviataoslav-tymonko/)<br/>
 ### 💬 Check my Djinni: [Sviatoslav Tymonko](https://djinni.co/q/c1f5e4e296/)<br/>
-### 💬 Check my Resume: [CV](https://drive.google.com/file/d/11D1GecJjojUBzFPoaNLz4dP7pwFignE0/view?usp=sharing)<br/>
+### 💬 Check my Resume: [CV](https://drive.google.com/file/d/1zPvfdVL7t5QTc2ADz6Zy8NJb7b5yX-GG/view?usp=sharing)<br/>
 
 
 >⚡ Your life is not a problem to be solved but a gift to be opened. <br/>
