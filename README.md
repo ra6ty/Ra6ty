@@ -1,6 +1,6 @@
 # 👋 Hi there , my name is Sviatoslav Tymonko!<br/>
 ## 💻 I'am Front-end Developer from Ivano-Frankivsk.<br/>
-### 👔 I work in Freelance on Upwork in Fystdevs.<br/>
+### 👔 I work in OCTY.<br/>
 ### 💬 Check my Instagram: @tymonko.s<br/>
 ### 💬 Check my LinkedIn: [Sviatoslav Tymonko](https://www.linkedin.com/in/sviatoslav-tymonko-965419222/)<br/>
 ### 💬 Check my DOU: [Sviatoslav Tymonko](https://dou.ua/users/sviataoslav-tymonko/)<br/>
@@ -13,24 +13,28 @@
 
 ## ​💻​💾​👓​👔​ Languages and Technologies:<br/>
 * HTML5<br/>
-* PUG<br/>
-* JADE<br/>
 * CSS<br/>
 * SCSS<br/>
 * LESS<br/>
-* JavaScript<br/>
-* ES6<br/>
+* JavaScript ES6<br/>
 * TypeScript<br/>
-* ReactJS<br/>
+* React.js<br/>
+* Next.js<br/>
+* Firebase - Google<br/>
 * Redux<br/>
+* MobX<br/>
 * AJAX<br/>
-* GIT<br/>
 * REST<br/>
+* GraphQL<br/>
+* GIT<br/>
 * SPA<br/>
+* SSR<br/>
+* SSG<br/>
 * Bootstrap<br/>
+* MaterialUI<br/>
 * WebPack<br/>
 * GULP<br/>
 * SDLC<br/>
 * SCRUM<br/>
 * KANBAN<br/>
-* MaterialUI<br/>
+
