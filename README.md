@@ -4,7 +4,7 @@
          width="45" /> I'm Sviat</h1>
 
 # 💫 About Me :
-- 🚀 I'm a React & React Native developer with 4+ years of experience.
+- 🚀 I'm a React & React Native developer with 5+ years of experience.
 - 🌱 I’m currently diving deeper into AI and LLMs.
 - 💡 Passionate about building startups and innovative projects.
 - 🏋️‍♂️ I lead an active lifestyle and love sports.
