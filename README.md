@@ -8,7 +8,6 @@
 - 🌱 I’m currently diving deeper into AI and LLMs.
 - 💡 Passionate about building startups and innovative projects.
 - 🏋️‍♂️ I lead an active lifestyle and love sports.
-- 🎯 My goal is to grow my personal brand and reach 50-60k followers.
 - 👯 I’m open to collaborations on tech projects and startups.
 
 ## 🌐 Socials
