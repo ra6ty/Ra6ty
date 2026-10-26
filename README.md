@@ -1,70 +1,35 @@
-<h1 align="center"> Heyy, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Sviat</h1>
+# Sviat Tymonko
 
-# 💫 About Me :
-- 🚀 I'm a React & React Native developer with 5+ years of experience.
-- 🌱 I’m currently diving deeper into AI and LLMs.
-- 💡 Passionate about building startups and innovative projects.
-- 🏋️‍♂️ I lead an active lifestyle and love sports.
-- 👯 I’m open to collaborations on tech projects and startups.
+Senior React Native & Electron engineer. I lead the mobile side of products and build MVPs for founders.
+Warsaw, remote. 5+ years, 20+ products from the first commit to the stores.
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tymonko.s) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sviatoslav-tymonko/)
+**Site with 21 case studies:** [tymonko.com](https://tymonko.com) · [LinkedIn](https://www.linkedin.com/in/sviatoslav-tymonko/) · sviatoslav.tymonko@gmail.com
 
-## 💻 Tech Stack
-### Languages & Technologies:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+## What I do
 
-### Frontend:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Native](https://img.shields.io/badge/react%20native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) 
-![Electron](https://img.shields.io/badge/electron-%2347848F.svg?style=for-the-badge&logo=electron&logoColor=white)
-![Ionic](https://img.shields.io/badge/ionic-%233880FF.svg?style=for-the-badge&logo=ionic&logoColor=white)
+- Set up a product from an empty repo: architecture, the core, the first release, then the team that keeps shipping.
+- The hard parts of mobile and desktop: native modules, on-device encryption, real-time video, subscriptions and payments, signed desktop releases.
+- Releases that do not depend on one laptop: Fastlane, GitHub Actions, GitLab CI.
 
-### State Management:
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![MobX](https://img.shields.io/badge/mobx-%23FF9955.svg?style=for-the-badge&logo=mobx&logoColor=white)
-![React Query](https://img.shields.io/badge/react%20query-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
-![Zustand](https://img.shields.io/badge/zustand-%23EF8E19.svg?style=for-the-badge&logo=zustand&logoColor=white)
+## Selected work
 
-### Backend:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Strapi](https://img.shields.io/badge/strapi-%236E57E0.svg?style=for-the-badge&logo=strapi&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+- [Baby-led weaning app with recipes and a feeding tracker, built from zero](https://tymonko.com/cases/baby-led-weaning-app) — lead mobile developer, RevenueCat subscriptions, both stores.
+- [Shopping apps for a pharmacy chain](https://tymonko.com/cases/pharmacy-chain-mobile-apps) — rebuilt checkout, REST → GraphQL, slowest step 3.1 s → 0.8 s, CI/CD to both stores.
+- [Medical documents with on-device encryption](https://tymonko.com/cases/medical-documents-on-device-encryption) — native AES-256 PDF modules for iOS and Android.
+- [Ground control station for drone operators](https://tymonko.com/cases/drone-ground-control-station) — Electron, telemetry over serial and MAVLink, releases to three OSes.
+- [AI platform for families](https://tymonko.com/cases/ai-platform-for-families) — screen-time rules a child's phone really follows.
 
-### APIs & Databases:
-![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=restapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
-![Prisma](https://img.shields.io/badge/prisma-%23000000.svg?style=for-the-badge&logo=prisma&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-%23FFCD00.svg?style=for-the-badge&logo=websocket&logoColor=black)
-![Protoo](https://img.shields.io/badge/Protoo-%23FFCC00.svg?style=for-the-badge)
+Most of this work lives in private repos of [@Gymni](https://github.com/Gymni), [@Sprout-Good-Habits](https://github.com/Sprout-Good-Habits), [@PSP-Ecomm](https://github.com/PSP-Ecomm) and [@electron-publish-pro](https://github.com/electron-publish-pro).
 
-### Payments & Authentication:
-![Stripe](https://img.shields.io/badge/stripe-%23646464.svg?style=for-the-badge&logo=stripe&logoColor=white) 
-![Firebase Authentication](https://img.shields.io/badge/firebase%20auth-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Apple Auth](https://img.shields.io/badge/apple%20auth-%23000000.svg?style=for-the-badge&logo=apple) 
-![Google Auth](https://img.shields.io/badge/google%20auth-%23EA4335.svg?style=for-the-badge&logo=google)
+## My own ideas
 
-### CI/CD & DevOps:
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Fastlane](https://img.shields.io/badge/fastlane-%23FF2D55.svg?style=for-the-badge&logo=fastlane&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+- **[Electron Publish Pro](https://electronpublish.com)** — release readiness checks for Electron apps. Public: [`epp` CLI](https://github.com/electron-publish-pro/cli) on [npm](https://www.npmjs.com/package/electron-publish-pro).
+- **[Gymni](https://gymni.com.ua)** — an app and platform for personal trainers.
 
-### UI/UX:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![SCSS](https://img.shields.io/badge/SCSS-%23C6538C.svg?style=for-the-badge&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## Stack
 
-### Other Tools:
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+React Native · Expo · TypeScript · Electron · Next.js · Node / NestJS · Supabase · Firebase · PostgreSQL · WebRTC · RevenueCat · Stripe · Fastlane · GitHub Actions
 
----
-💡 Always excited to connect with like-minded developers and entrepreneurs!
+## Work with me
+
+Technical co-founder, MVP development, senior engineer for your product, or a rescue and audit for a stuck product: [tymonko.com/work-with-me](https://tymonko.com/work-with-me). A few sentences about your problem by email are enough to start.
