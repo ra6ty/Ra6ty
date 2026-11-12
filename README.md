@@ -1,23 +1,25 @@
 <h1 align="center">Hey, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="wave" height="40" width="40" /> I'm Sviat</h1>
 
-<p align="center"><b>Senior React Native & Electron engineer. I lead the mobile side of products and build MVPs for founders.</b><br/>Warsaw · remote · 5+ years · 20+ products from the first commit to the stores</p>
+<p align="center"><b>Senior React Native & Electron engineer, full-stack. I take mobile, web and desktop products from zero to release and lead the mobile side.</b><br/>Warsaw · remote · 6+ years · from MVPs built in a month to an app used by millions</p>
 
 <p align="center">
   <a href="https://tymonko.com"><img src="https://img.shields.io/badge/tymonko.com-21_case_studies-2f6bff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="tymonko.com" /></a>
+  <a href="https://tymonko.com/cv"><img src="https://img.shields.io/badge/CV-one_page-141922?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV" /></a>
   <a href="https://www.linkedin.com/in/sviatoslav-tymonko/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sviatoslav.tymonko@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 # 💫 About me
 - 🚀 I set products up from an empty repo: architecture, the core, the first release, then the team that keeps shipping.
-- 📱 Mobile is my home: React Native and Expo, native modules when the platform needs them, releases to both stores.
+- 📱 Mobile is my home: React Native and Expo, native modules in Swift, Kotlin and Objective-C++, releases to both stores.
 - 🖥️ Desktop too: Electron apps with signed and notarized releases for macOS, Windows and Linux.
 - 🧩 The hard parts I like: on-device encryption, real-time video, subscriptions and payments, hardware over serial.
+- 🤖 I have rolled out an AI development flow in a team: every developer had their own AI bot writing code 24/7 while the developers steered the process.
 - 💡 On the side I build my own ideas: [Gymni](https://gymni.com.ua) and [Electron Publish Pro](https://electronpublish.com).
 
 # 🏗️ Selected work
 - [Baby-led weaning app with recipes and a feeding tracker, built from zero](https://tymonko.com/cases/baby-led-weaning-app) — lead mobile developer, subscriptions, both stores
-- [Shopping apps for a pharmacy chain](https://tymonko.com/cases/pharmacy-chain-mobile-apps) — checkout rebuilt, REST → GraphQL, 3.1 s → 0.8 s, CI/CD to both stores
+- [Pharmacy shopping app used by millions](https://tymonko.com/cases/pharmacy-chain-mobile-apps) — checkout rebuilt, REST → GraphQL, Go to Checkout 20 s → 3 s, CI/CD to both stores
 - [Medical documents with on-device encryption](https://tymonko.com/cases/medical-documents-on-device-encryption) — native AES-256 PDF modules for iOS and Android
 - [Ground control station for drone operators](https://tymonko.com/cases/drone-ground-control-station) — Electron, telemetry over serial and MAVLink, three-OS releases
 - [AI platform for families](https://tymonko.com/cases/ai-platform-for-families) — screen-time rules a child's phone really follows
@@ -93,4 +95,4 @@ Public code: the [`epp` CLI](https://github.com/electron-publish-pro/cli) of Ele
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ---
-🤝 Four ways to work with me: technical co-founder, MVP development, senior engineer for your product, product rescue and audit → [tymonko.com/work-with-me](https://tymonko.com/work-with-me)
+📄 My CV on one page, with a case study behind each project → [tymonko.com/cv](https://tymonko.com/cv)
